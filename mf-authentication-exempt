@@ -8,6 +8,10 @@
       {
         "id": 23,
         "name": "Acme Teaching Hospital"
+      },
+      {
+        "id": 25,
+        "name": "Michael Garron Hospital"
       }
     ]
   }
